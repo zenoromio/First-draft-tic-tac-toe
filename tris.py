@@ -15,6 +15,7 @@ def display_board():
     print(board[6] + " | " + board[7] + " | " + board[8] + "      " + "7|8|9")
 display_board()
 
+#miao miao
 #first move
 user_choice = int(input("Select a box (1-9): \n"))
 
